@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-04-web-jsp" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-07/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-task/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-01-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-dubbo/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-dubbo/provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-07-deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-elastic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-03-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-springcloud/consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-springcloud/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-springcloud/provider-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-08-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-01-helloworld-quick/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config-autoconfig/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

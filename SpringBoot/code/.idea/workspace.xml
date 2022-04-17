@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaa4e134-f3eb-41a3-a14d-0170fe810dc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SpringBoot.md" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-08-starter/atguigu-spring-boot-starter-autoconfigurer/mvnw.cmd" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/Cellar/maven@3.5/3.5.4_1/libexec" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dsnZraBsUhrWZVbJlgR3z42jsH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot02AmqpApplication">
+    <configuration name="ConsumerUserApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-user (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.consumeruser.ConsumerUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.user.ConsumerUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.HelloWorldMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTicketApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-ticket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ticket.ProviderTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-ticket (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.providerticket.ProviderTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot01HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-helloworld-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot01HelloworldQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02Config02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot02config02.SpringBoot02Config02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot02ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigAutoconfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config-autoconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot02ConfigAutoconfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-03-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot03LoggingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot04WebJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebRestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-restfulcrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot04WebRestfulcrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-07" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot07Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot08StarterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-08-starter-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot08StarterTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot01CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cache.Springboot01CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02AmqpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-amqp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.amqp.Springboot02AmqpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03ElasticApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-elastic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.elastic.Springboot03ElasticApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.task.Springboot04TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07DeployApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-07-deploy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.deploy.Springboot07DeployApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-08-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot08actuator.Springboot08ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaa4e134-f3eb-41a3-a14d-0170fe810dc0" name="Default Changelist" comment="" />
+      <created>1593222726698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593222726698</updated>
+      <workItem from="1593222728833" duration="8741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="175" key="SettingsEditor" timestamp="1593254464156">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1593254464156" />
+    <state x="538" y="291" width="967" height="490" key="find.popup" timestamp="1593240191139">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="538" y="291" width="967" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1593240191139" />
+    <state x="208" y="199" key="new project wizard" timestamp="1593239789625">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="208" y="199" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1593239789625" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1593246755252">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1593246755252" />
+  </component>
+</project>
