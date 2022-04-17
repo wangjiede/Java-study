@@ -1,0 +1,45 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baizhi.dao.UserDAO">
+
+
+
+    <insert id="save" parameterType="User" useGeneratedKeys="true" keyProperty="id">
+        insert into t_user values(#{id},#{username},#{password},#{salt})
+    </insert>
+
+
+    <select id="findByUserName" parameterType="String" resultType="User">
+        select id,username,password,salt from t_user
+        where username = #{username}
+    </select>
+
+
+    <resultMap id="userMap" type="User">
+        <id column="uid" property="id"/>
+        <result column="username" property="username"/>
+        <!--角色信息-->
+        <collection property="roles" javaType="list" ofType="Role">
+            <id column="id" property="id"/>
+            <result column="rname" property="name"/>
+        </collection>
+    </resultMap>
+
+    <select id="findRolesByUserName" parameterType="String" resultMap="userMap">
+      SELECT u.id uid,u.username,r.id,r.NAME rname
+      FROM t_user u
+      LEFT JOIN t_user_role ur
+      ON u.id=ur.userid
+      LEFT JOIN t_role r
+      ON ur.roleid=r.id
+      WHERE u.username=#{username}
+    </select>
+
+    <select id="findPermsByRoleId" parameterType="String" resultType="Perms">
+      SELECT p.id,p.NAME,p.url,r.NAME
+      FROM t_role r
+      LEFT JOIN t_role_perms rp
+      ON r.id=rp.roleid
+      LEFT JOIN t_perms p ON rp.permsid=p.id
+      WHERE r.id=#{id}
+    </select>
+</mapper>
