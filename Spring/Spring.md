@@ -983,7 +983,7 @@ XML中Id值说明：在 IOC 容器中必须是唯一的，若 id 没有指定，
     2. 代码的方式激活某种环境，如：
 
        ```java
-       //1、创建一个applicationContext
+       	//1、创建一个applicationContext
        AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext();
        //2、设置需要激活的环境
        applicationContext.getEnvironment().setActiveProfiles("dev");
